@@ -1,0 +1,75 @@
+const products = [
+    {
+        id: 1,
+        title: "Apple Iphone 13 pro",
+        description: "256 GB 6.7-inch display",
+        price: 115900.00,
+        category: "Iphone",
+        image: "https://static.toiimg.com/thumb/resizemode-4,msid-79729969,width-1200,height-900/79729969.jpg",
+    },
+    {
+        id: 2,
+        title: "Samsung Galaxy S23 Ultra 5G",
+        description: "Green, 12GB, 256GB Storage",
+        price: 121999,
+        category: "Samsung",
+        image: "https://m.media-amazon.com/images/I/61VfL-aiToL._SX569_.jpg"
+    },
+    {
+        id: 3,
+        title: "Oneplus nord ce 2 lite 5G",
+        description: "6GB RAM, 128GB Storage",
+        price: 19868,
+        category: "Oneplus",
+        image: "https://images.fonearena.com/blog/wp-content/uploads/2022/04/OnePlus-Nord-CE-2-Lite-5G_FoneArena-12-1024x646.jpg"
+    },
+    {
+        id: 4,
+        title: "OnePlus Nord 2T 5G",
+        description: "8GB RAM, 128GB Storage",
+        price: 28900,
+        category: "Oneplus",
+        image: "https://new-img.patrika.com/upload/2022/06/20/oneplus_nord_2t_5g.jpg",
+    },
+    {
+        id: 5,
+        title: "Samsung Galaxy A23 5G",
+        description: "6GB, 128GB Storage",
+        price: 20999,
+        category: "Samsung",
+        image: "https://m.media-amazon.com/images/I/81EtFZ6GA1L._SX679_.jpg",
+    },
+    {
+        id: 6,
+        title: "Samsung Galaxy M14 5G",
+        description: "6GB,128GB,50MP Triple Cam",
+        price: 13039,
+        category: "Samsung",
+        image: "https://m.media-amazon.com/images/I/818VqDSKpCL._SX466_.jpg",
+    },
+    {
+        id: 7,
+        title: "Apple iPhone 15 Pro Max",
+        description: "256 GB Blue Titanium",
+        price: 159900,
+        category: "Iphone",
+        image: "https://m.media-amazon.com/images/I/41zb7hwFUmL._SX300_SY300_QL70_FMwebp_.jpg",
+    },
+    {
+        id: 8,
+        title: "Apple iPhone 14 Pro",
+        description: "128 GB Silver",
+        price: 129900,
+        category: "Iphone",
+        image: "https://m.media-amazon.com/images/I/61lKQWyMdDL._SX679_.jpg",
+    },
+    {
+        id: 9,
+        title: "OnePlus 11 5G",
+        description: "8GB RAM, 128GB Storage",
+        price: 56998,
+        category: "Oneplus",
+        image: "https://m.media-amazon.com/images/I/61amb0CfMGL._SX569_.jpg",
+    },
+]
+export default products;
