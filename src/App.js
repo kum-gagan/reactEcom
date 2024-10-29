@@ -5,7 +5,7 @@ import ProductList from "./components/ProductList";
 
 const AppContainer = styled.div`
   text-align: center;
-  padding: 20px;
+  padding: 30px;
   font-family: 'Work Sans', sans-serif;
 `;
 const Heading = styled.h1`
